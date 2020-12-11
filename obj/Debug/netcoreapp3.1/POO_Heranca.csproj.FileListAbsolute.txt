@@ -1,0 +1,26 @@
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.exe
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.deps.json
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.runtimeconfig.json
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.runtimeconfig.dev.json
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.dll
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.pdb
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.csprojAssemblyReference.cache
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.AssemblyInfoInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.AssemblyInfo.cs
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.dll
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.pdb
+C:\Users\juanv\Desktop\DEV\back-end\POO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.dll
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.exe
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.dll
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\bin\Debug\netcoreapp3.1\POO_Heranca.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\AulaPOO_Heranca\AulaPOO_Heranca\obj\Debug\netcoreapp3.1\POO_Heranca.genruntimeconfig.cache
